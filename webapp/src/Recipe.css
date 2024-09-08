@@ -1,0 +1,8 @@
+.recipe {
+    background-color: rgba(245, 245, 245, 255);
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
+}
